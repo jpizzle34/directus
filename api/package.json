@@ -117,7 +117,7 @@
 		"flat": "5.0.2",
 		"fs-extra": "10.1.0",
 		"globby": "11.0.4",
-		"graphql": "16.6.0",
+		"graphql": "16.8.1",
 		"graphql-compose": "9.0.9",
 		"helmet": "6.0.0",
 		"inquirer": "8.2.4",
